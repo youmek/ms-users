@@ -1,5 +1,2 @@
-import authGuard from "./auth-guard";
-
-export {
-    authGuard,
-};
+export * from "./auth-guard";
+export * from "./validate-dto";
